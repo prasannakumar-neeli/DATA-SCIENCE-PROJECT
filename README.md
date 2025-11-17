@@ -1,4 +1,5 @@
 Mall Customer Segmentation
+
 Objective:
 The goal of this project is to segment customers based on their behavior and spending patterns using clustering techniques. This helps identify target customers for focused marketing strategies, thereby increasing conversion rates.
 
